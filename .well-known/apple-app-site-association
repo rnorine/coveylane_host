@@ -1,0 +1,13 @@
+{
+  "webcredentials": {
+    "apps": ["727Z6VGX8V.coveylane.SettliAI"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appID": "727Z6VGX8V.coveylane.SettliAI",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
